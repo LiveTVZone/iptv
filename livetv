@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,Первый канал
+http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ТНТ HD
+http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ
+http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
+#EXTINF:-1,РОССИЯ 1
+http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,РОССИЯ РТР
+http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1,National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,КИНОХИТ HD
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1,21TV
+http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,МИР
+http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ДОМАШНИЙ
+http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CTC HD
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Kentron HD
+http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATV HD
+http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,КИНОМАН HD
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Filmzone HD
+http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:-1,21TV
+http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Авто плюс
+http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CTC HD
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Карусель
+http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,VIASAT Sport
+http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,МАТЧ! ПЛАНЕТА
+http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
