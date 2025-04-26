@@ -1,33 +1,84 @@
-#EXTM3U
-#EXTINF:-1 ,Unknown_1
-http://tv1.skaztv.online:34002/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_2
-http://tv1.skaztv.online:34002/2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_3
-http://tv1.skaztv.online:34002/3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_4
-http://tv1.skaztv.online:34002/4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_5
-http://tv1.skaztv.online:34002/5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_6
-http://tv1.skaztv.online:34002/6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_13
-http://tv1.skaztv.online:34002/13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_15
-http://tv1.skaztv.online:34002/15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_16
-http://tv1.skaztv.online:34002/16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_17
-http://tv1.skaztv.online:34002/17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_19
-http://tv1.skaztv.online:34002/19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_20
-http://tv1.skaztv.online:34002/20/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_21
-http://tv1.skaztv.online:34002/21/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_22
-http://tv1.skaztv.online:34002/22/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_32
-http://tv1.skaztv.online:34002/32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_43
-http://tv1.skaztv.online:34002/43/tracks-v1a1/mono.m3u8
+#EXTM3U url-tvg="http://epg.team/tvteam.xml.gz"
+#EXTINF:-1 tvg-id="AM: Shant HD" tvg-logo="https://mytv.do.am/logo/shant.png" group-title="Հայկական",Շանթ
+http://45.11.139.43:8555/shant/index.m3u8
+#EXTINF:-1 tvg-id="AM: Arajin Aliq" tvg-logo="http://epg.it999.ru/img2/2060.png" group-title="Հայկական",Առաջին Ալիք
+http://45.11.139.43:8555/h1/index.m3u8
+#EXTINF:-1 tvg-id="AM: Armenia TV" tvg-logo="http://epg.it999.ru/img2/2064.png" group-title="Հայկական",Արմենիա TV
+http://45.11.139.43:8555/armenia/index.m3u8
+#EXTINF:-1 group-title="Հայկական" tvg-id="AM: Armenia Premium" tvg-logo="http://epg.it999.ru/img2/2384.png",Armenia Premium
+#EXTVLCOPT:http-user-agent=EMVideoView 3.1.1 (31100)
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 tvg-id="AM: USArmeniaTV" tvg-logo="https://mytv.do.am/logo/usarm.png" group-title="Հայկական",USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET480.m3u8
+#EXTINF:-1 tvg-id="AM: ATV HD" tvg-logo="http://epg.it999.ru/img2/2067.png" group-title="Հայկական",ATV
+http://45.11.139.43:8555/atv/index.m3u8
+#EXTINF:-1 tvg-id="AM: Kentron" tvg-logo="http://epg.it999.ru/img2/2065.png" group-title="Հայկական",Կենտրոն
+http://45.11.139.43:8555/kentron/index.m3u8
+#EXTINF:-1 tvg-id="AM: H2" tvg-logo="http://epg.it999.ru/img2/2062.png" group-title="Հայկական",Հ2
+http://185.177.104.229:8008/H2/index.m3u8
+#EXTINF:-1 tvg-id="AM: 5 TV" tvg-logo="http://epg.it999.ru/img2/2372.png" group-title="Հայկական",5 ալիք
+http://45.11.139.120:8555/5rdaliq/index.m3u8
+#EXTINF:-1 tvg-id="AM: 5 TV+" tvg-logo="http://epg.it999.ru/img2/5927.png" group-title="Հայկական",5 ալիք plus
+http://45.11.139.120:8555/5plus/index.m3u8
+#EXTINF:-1 tvg-id="AM: Yerkir Media" tvg-logo="http://epg.it999.ru/img2/2066.png" group-title="Հայկական",Երկիր մեդիա
+http://45.11.139.120:8555/erkirmedia/index.m3u8
+#EXTINF:-1 tvg-id="AM: Nor Hayastan" tvg-logo="http://epg.it999.ru/img2/2395.png" group-title="Հայկական",Նոր Հայաստան
+http://45.11.139.43:8555/norhayastan/index.m3u8
+#EXTINF:-1 tvg-id="AM: DeltaTV" tvg-logo="https://epg.one/img2/7866.png" group-title="Հայկական",Դելտա TV
+http://45.11.139.120:8555/delta/index.m3u8
+#EXTINF:-1 tvg-id="AM: Fortuna TV" tvg-logo="https://mytv.do.am/logo/fortuna.png" group-title="Հայկական",Ֆորտունա TV
+http://45.11.139.120:8555/fortuna/index.m3u8
+#EXTINF:-1 tvg-id="AM: Nur TV" tvg-logo="https://mytv.do.am/logo/nur.png" group-title="Հայկական",Նուռ TV
+http://45.11.139.120:8555/nur/index.m3u8
+#EXTINF:-1 tvg-id="AM: Kotayq" tvg-logo="https://mytv.do.am/logo/kitayqtv.png" group-title="Հայկական",Կոտայք TV
+http://45.11.139.120:8555/kotayq/index.m3u8
+#EXTINF:-1 tvg-id="AM: Geghama TV" tvg-logo="https://mytv.do.am/logo/geghama.png" group-title="Հայկական",Գեղամա TV
+http://45.11.139.43:8555/geghama/index.m3u8
+#EXTINF:-1 tvg-id="AM: BunTV HD" tvg-logo="https://livemaralik.do.am/iconsarm/buntv.png" group-title="Հայկական",Բուն TV
+http://45.11.139.43:8555/boon/index.m3u8
+#EXTINF:-1 id="AM: Artn TV" tvg-logo="https://mytv.do.am/logo/artn.png" group-title="Հայկական",ARTN TV
+http://45.11.139.43:8555/artn/index.m3u8
+#EXTINF:-1 tvg-id="AM: Mig TV" tvg-logo="https://mytv.do.am/logo/migtv1.jpg" group-title="Հայկական",Միգ TV
+http://45.11.139.43:8555/mig/index.m3u8
+#EXTINF:-1 tvg-id="AM: Armount TV" tvg-logo="http://epg.it999.ru/img2/5941.png" group-title="Հայկական",Արմաունթ TV
+https://de1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
+#EXTINF:-1 tvg-id="AM: Shoghakat TV" tvg-logo="http://epg.it999.ru/img2/2071.png" group-title="Հայկական",Շողակաթ
+http://45.11.139.43:8555/shoghakat/index.m3u8
+#EXTINF:-1 tvg-id="AM: ATV Tava" tvg-logo="http://epg.it999.ru/img2/2392.png" group-title="Հայկական",ԹԱՎԱ TV
+http://45.11.139.120:8555/tava/index.m3u8
+#EXTINF:-1 tvg-id="AM: SongTV" tvg-logo="http://epg.it999.ru/img2/3360.png" group-title="Հայկական",Song TV AM
+https://songtv.hls.iptvdc.com/web-armenia/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="AM: Fresh TV" tvg-logo="http://epg.it999.ru/img2/5606.png" group-title="Հայկական",Ֆրեշ TV
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 tvg-id="AM: ATV HayTV" tvg-logo="http://epg.it999.ru/img2/2391.png" group-title="Հայկական",ՀԱՅ TV
+http://45.11.139.120:8555/haytv/index.m3u8
+#EXTINF:-1 tvg-id="AM: Velary" tvg-logo="https://antifriz.tv/storage/images/pack_logos/1543b83790979788c11f8b01494af477.png" group-title="Հայկական",Velari TV
+http://185.57.68.33:80/233/index.m3u8
+#EXTINF:-1 tvg-id="AM: ATV Muzzone" tvg-logo="http://epg.it999.ru/img2/2625.png" group-title="Հայկական",Մուզզոն
+http://45.11.139.43:8555/muzon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytv.do.am/logo/hayerjan.png" group-title="Հայկական",Հայեր ջան TV
+http://185.173.38.175:8555/hayerjan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytv.do.am/logo/deltamusic1.png" group-title="Հայկական",Delta Music
+http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytv.do.am/logo/deltatravel.png" group-title="Հայկական",Delta Travel
+http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
+#EXTINF:-1 tvg-id="AM: ATV Fitness" tvg-logo="https://mytv.do.am/logo/fitnes.png" group-title="Հայկական",Ֆիթնես TV
+http://45.11.139.43:8555/fitnes/index.m3u8
+#EXTINF:-1 tvg-id="AM: Lurer" tvg-logo="http://epg.it999.ru/img2/5930.png" group-title="Հայկական",Առաջինի Լրատվական
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AM: Azatutyun TV" tvg-logo="http://epg.it999.ru/img2/2385.png" group-title="Հայկական",Ազատություն TV
+http://185.57.68.33:80/240/index.m3u8
+#EXTINF:-1 tvg-id="AM: ATV Bazmoc" tvg-logo="https://mytv.do.am/logo/bazmoc.png" group-title="Հայկական",Բազմոց TV
+http://45.11.139.120:8555/bazmoc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytv.do.am/boevik.png" group-title="Հայկական",Боевик TV
+http://45.11.139.120:8555/boyevik/index.m3u8
+#EXTINF:-1 tvg-id="AM: ArmToon TV" tvg-logo="https://mytv.do.am/logo/toon.png" group-title="Հայկական",ArmToon
+http://185.57.68.33:80/236/index.m3u8
+#EXTINF:-1 tvg-id="AM: ATV Xaghaliq" tvg-logo="http://epg.it999.ru/img2/2387.png" group-title="Հայկական",Խաղալիք
+http://45.11.139.43:8081/stream/khaghaliq/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="AM: FastSports" tvg-logo="http://epg.it999.ru/img2/7089.png" group-title="Հայկական",Fast Sports
+http://45.11.139.43:8555/fast/index.m3u8
+#EXTINF:-1 group-title="Հայկական" tvg-id="AM: FastSports 1" tvg-logo="http://epg.it999.ru/img2/7089.png",Fast Sports 1
+https://tvoe.live/api/stream/ch2587/mono.m3u8?token=tvoelive.DSo0SUcalxD-kuqpxCblCnXoy64idI0mc0Snc716rr5sqW40oCKDpUvCoBZGOKhW
+#EXTINF:-1 group-title="Հայկական" tvg-id="AM: FastSports 2" tvg-logo="http://epg.it999.ru/img2/7089.png",Fast Sports 2
+https://tvoe.live/api/stream/ch2588/mono.m3u8?token=tvoelive.DSo0SUcalxD-kuqpxCblCnXoy64idI0mc0Snc716rr5sqW40oCKDpUvCoBZGOKhW
