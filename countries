@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="http://epg.team/tvteam.xml.gz"
+#EXTINF:-1 tvg-id="AM: Shant HD" tvg-logo="http://team.ga/images/chIcons/575.png" group-title="Հայկական",Շանթ
+http://45.11.139.43:8555/shant/index.m3u8
+#EXTINF:-1 tvg-id="AM: Arajin Aliq" tvg-logo="http://team.ga/images/chIcons/1077.png" group-title="Հայկական",Առաջին Ալիք
+http://45.11.139.43:8555/h1/index.m3u8
+#EXTINF:-1 tvg-id="AM: Armenia TV" tvg-logo="http://team.ga/images/chIcons/574.png" group-title="Հայկական",Արմենիա TV
+http://45.11.139.43:8555/armenia/index.m3u8
+#EXTINF:-1 tvg-id="AM: ATV HD" tvg-logo="http://team.ga/images/chIcons/576.png" group-title="Հայկական",ATV
+http://45.11.139.43:8555/atv/index.m3u8
+#EXTINF:-1 tvg-id="AM: Kentron" tvg-logo="http://team.ga/images/chIcons/1076.png" group-title="Հայկական",Կենտրոն
