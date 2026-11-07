@@ -1,63 +1,309 @@
 #EXTM3U url-tvg="http://epg.team/tvteam.xml.gz"
-#EXTINF:-1 tvg-id="AM: Shant HD" tvg-logo="https://livemaralik.do.am/icon/shant.png" group-title="",Շանթ
-http://45.11.139.43:8555/shant/index.m3u8
-#EXTINF:-1 tvg-id="AM: Arajin Aliq" tvg-logo="https://livemaralik.do.am/icon/1aliq.png" group-title="",Առաջին Ալիք
-http://45.11.139.43:8555/h1/index.m3u8
-#EXTINF:-1 tvg-id="AM: Armenia TV" tvg-logo="https://livemaralik.do.am/icon/armenia.png" group-title="",Արմենիա TV
-http://45.11.139.43:8555/armenia/index.m3u8
-#EXTINF:-1 tvg-id="AM: USArmeniaTV" tvg-logo="https://mytv.do.am/logo/usarm.png" group-title="",USArmenia TV
-http://livestream.usatv.com/hls/m3u8/USARMENIA_NET480.m3u8
-#EXTINF:-1 tvg-id="AM: ATV HD" tvg-logo="https://livemaralik.do.am/icon/atv.png" group-title="",ATV
-http://45.11.139.43:8555/atv/index.m3u8
-#EXTINF:-1 tvg-id="AM: Kentron" tvg-logo="https://livemaralik.do.am/icon/kentron.png" group-title="",Կենտրոն
-http://45.11.139.43:8555/kentron/index.m3u8
-#EXTINF:-1 tvg-id="AM: Nor Hayastan" tvg-logo="https://livemaralik.do.am/icon/norhayastan.png" group-title="",Նոր Հայաստան
-http://45.11.139.43:8555/norhayastan/index.m3u8
-#EXTINF:-1 tvg-id="AM: DeltaTV" tvg-logo="https://livemaralik.do.am/icon/deltatv.png" group-title="",Դելտա TV
-http://45.11.139.120:8555/delta/index.m3u8
-#EXTINF:-1 tvg-id="AM: Fortuna TV" tvg-logo="https://livemaralik.do.am/icon/fortuna.png" group-title="",Ֆորտունա TV
-http://45.11.139.120:8555/fortuna/index.m3u8
-#EXTINF:-1 tvg-id="AM: Nur TV" tvg-logo="https://livemaralik.do.am/icon/nur.png" group-title="",Նուռ TV
-http://45.11.139.120:8555/nur/index.m3u8
-#EXTINF:-1 tvg-id="AM: Kotayq" tvg-logo="https://livemaralik.do.am/icon/kotayqtv.png" group-title="",Կոտայք TV
-http://45.11.139.120:8555/kotayq/index.m3u8
-#EXTINF:-1 tvg-id="AM: Geghama TV" tvg-logo="https://livemaralik.do.am/icon/gheghama.png" group-title="",Գեղամա TV
-http://45.11.139.43:8555/geghama/index.m3u8
-#EXTINF:-1 tvg-id="AM: BunTV HD" tvg-logo="https://livemaralik.do.am/icon/boon.png" group-title="",Բուն TV
-http://45.11.139.43:8555/boon/index.m3u8
-#EXTINF:-1 id="AM: Artn TV" tvg-logo="https://mytv.do.am/logo/artn.png" group-title="",ARTN TV
-http://45.11.139.43:8555/artn/index.m3u8
-#EXTINF:-1 tvg-id="AM: Mig TV" tvg-logo="https://mytv.do.am/logo/mig-tv.png" group-title="",Միգ TV
-http://45.11.139.43:8555/mig/index.m3u8
-#EXTINF:-1 tvg-id="AM: Armount TV" tvg-logo="https://livemaralik.do.am/icon/armount.png" group-title="",Արմաունթ TV
-https://us1.ottstream.live:17071/C352/tracks-v1a1/mono.m3u8?token=GGfkFV4%24TXeZjt3i
-#EXTINF:-1 tvg-id="AM: Shoghakat TV" tvg-logo="https://livemaralik.do.am/icon/shoghakat.png" group-title="",Շողակաթ
-http://45.11.139.43:8555/shoghakat/index.m3u8
-#EXTINF:-1 tvg-id="AM: ATV Tava" tvg-logo="https://livemaralik.do.am/icon/tavatv.png" group-title="",ԹԱՎԱ TV
-http://45.11.139.120:8555/tava/index.m3u8
-#EXTINF:-1 tvg-id="AM: SongTV" tvg-logo="https://livemaralik.do.am/icon/songtv.png" group-title="",Song TV AM
-https://songtv.hls.iptvdc.com/web-armenia/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="AM: Fresh TV" tvg-logo="http://cdn.epg.one/img2/5606.png" group-title="",Ֆրեշ TV
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-#EXTINF:-1 tvg-id="AM: ATV HayTV" tvg-logo="https://livemaralik.do.am/icon/haytv.png" group-title="",ՀԱՅ TV
-http://45.11.139.120:8555/haytv/index.m3u8
-#EXTINF:-1 tvg-id="AM: Velary" tvg-logo="https://mytv.do.am/icon/velary.png" group-title="",Velari TV
-http://185.57.68.33:80/233/index.m3u8
-#EXTINF:-1 tvg-id="AM: ATV Muzzone" tvg-logo="https://livemaralik.do.am/icon/muzzone.png" group-title="",Մուզզոն
-http://45.11.139.43:8555/muzon/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livemaralik.do.am/icon/deltamusic1.png" group-title="",Delta Music
-http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livemaralik.do.am/icon/deltatravel.png" group-title="",Delta Travel
-http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
-#EXTINF:-1 tvg-id="AM: ATV Fitness" tvg-logo="https://livemaralik.do.am/icon/fitnes.png" group-title="",Ֆիթնես TV
-http://45.11.139.43:8555/fitnes/index.m3u8
-#EXTINF:-1 tvg-id="AM: Lurer" tvg-logo="https://livemaralik.do.am/icon/h1lurer.png" group-title="",Առաջինի Լրատվական
-https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AM: Azatutyun TV" tvg-logo="https://livemaralik.do.am/icon/azatutyun.png" group-title="",Ազատություն TV
-http://185.57.68.33:80/240/index.m3u8
-#EXTINF:-1 tvg-id="AM: FastSports" tvg-logo="https://livemaralik.do.am/icon/fast.png" group-title="",Fast Sports
-http://45.11.139.43:8555/fast/index.m3u8
-#EXTINF:-1 tvg-id="AM: ArmToon TV" tvg-logo="https://mytv.do.am/logo/toon.png" group-title="",ArmToon
-http://185.57.68.33:80/236/index.m3u8
-#EXTINF:-1 tvg-id="AM: ATV Xaghaliq" tvg-logo="http://cdn.epg.one/img2/2387.png" group-title="",Խաղալիք
-http://45.11.139.43:8081/stream/khaghaliq/hls/playlist.m3u8
+#EXTINF:0 tvg-id="AM: Shant HD" tvg-logo="https://livemaralik.do.am/icon/shant.png" group-title="Հայկական",Շանթ
+https://s70378.cdn.ngenix.net/shant/index.m3u8
+#EXTINF:0 tvg-id="AM: SHANT PREMIUM" tvg-logo="https://livemaralik.do.am/icon/shantpremium.png" group-title="Հայկական",Շանթ Premium
+https://s70378.cdn.ngenix.net/shant_premium/index.m3u8
+#EXTINF:0 tvg-id="AM: Shant Gyumri" tvg-logo="https://livemaralik.do.am/icon/shantgyumri.png" group-title="Հայկական",Շանթ Գյումրի
+https://s70378.cdn.ngenix.net/shant_gyumri/index.m3u8
+#EXTINF:0 tvg-id="AM: Shant Serial  HD" tvg-logo="https://livemaralik.do.am/icon/shantserial.png" group-title="Հայկական",Շանթ սերիալ
+https://s70378.cdn.ngenix.net/shant_serial/index.m3u8
+#EXTINF:0 tvg-id="AM: Arajin Aliq" tvg-logo="https://livemaralik.do.am/icon/1aliq.png" group-title="Հայկական",Առաջին ալիք
+https://s70378.cdn.ngenix.net/h1/index.m3u8
+#EXTINF:0 tvg-id="AM: Kentron" tvg-logo="https://livemaralik.do.am/icon/kentron.png" group-title="Հայկական",Կենտրոն TV
+https://s70378.cdn.ngenix.net/kentron/index.m3u8
+#EXTINF:0 tvg-id="AM: Armenia TV" tvg-logo="https://livemaralik.do.am/icon/armenia.png" group-title="Հայկական",Արմենիա TV
+https://s70378.cdn.ngenix.net/armenia_tv_hd/index.m3u8
+#EXTINF:0 tvg-id="AM: ATV HD" tvg-logo="https://livemaralik.do.am/icon/atv.png" group-title="Հայկական",ATV
+https://s70378.cdn.ngenix.net/atv/index.m3u8
+#EXTINF:0 tvg-id="AM: H2" tvg-logo="https://livemaralik.do.am/icon/h2am.png" group-title="Հայկական",Հ2
+https://s70378.cdn.ngenix.net/h2/index.m3u8
+#EXTINF:0 tvg-id="AM: 5 TV" tvg-logo="https://livemaralik.do.am/icon/5aliq.png" group-title="Հայկական",5-րդ ալիք
+https://s70378.cdn.ngenix.net/ararat/index.m3u8
+#EXTINF:0 tvg-id="AM: 5 TV+" tvg-logo="https://livemaralik.do.am/icon/5aliqplus.png" group-title="Հայկական",5-րդ ալիք+
+https://s70378.cdn.ngenix.net/tv_5_plus/index.m3u8
+#EXTINF:0 tvg-id="AM: Yerkir Media" tvg-logo="https://livemaralik.do.am/icon/erkir.png" group-title="Հայկական",Երկիր մեդիա
+https://s70378.cdn.ngenix.net/erkir_media/index.m3u8
+#EXTINF:0 tvg-id="AM: Nor Hayastan" tvg-logo="https://livemaralik.do.am/icon/norhayastan.png" group-title="Հայկական",Նոր Հայաստան
+https://s70378.cdn.ngenix.net/h3/index.m3u8
+#EXTINF:0 tvg-id="AM: BunTV HD" tvg-logo="https://livemaralik.do.am/icon/boon.png" group-title="Հայկական",Բուն TV
+https://s70378.cdn.ngenix.net/boon_tv/index.m3u8
+#EXTINF:0 tvg-id="AM: Tavush TV" tvg-logo="https://livemaralik.do.am/icon/tavush.png" group-title="Հայկական",Տավուշ TV
+https://s70378.cdn.ngenix.net/tavush_tv/index.m3u8
+#EXTINF:0 tvg-id="AM: Kotayq" tvg-logo="https://livemaralik.do.am/icon/kotayqtv.png" group-title="Հայկական",Կոտայք TV
+https://s70378.cdn.ngenix.net/abovyan_tv/index.m3u8
+#EXTINF:0 tvg-id="AM: Lori TV" tvg-logo="https://livemaralik.do.am/icon/loritv.png" group-title="Հայկական",Լոռի TV
+https://s70378.cdn.ngenix.net/lori_tv/index.m3u8
+#EXTINF:0 tvg-id="AM: Syunik TV" tvg-logo="https://livemaralik.do.am/icon/syuniq.png" group-title="Հայկական",Սյունիք TV
+https://s70378.cdn.ngenix.net/syunik_tv/index.m3u8
+#EXTINF:0 tvg-id="AM: DeltaTV" tvg-logo="https://livemaralik.do.am/icon/deltatv.png" group-title="Հայկական",Դելտա TV
+https://s70378.cdn.ngenix.net/delta_tv/index.m3u8
+#EXTINF:0 tvg-id="AM: Fortuna TV" tvg-logo="https://livemaralik.do.am/icon/fortuna.png" group-title="Հայկական",Ֆորտունա TV
+https://s70378.cdn.ngenix.net/fortuna_tv/index.m3u8
+#EXTINF:0 tvg-id="AM: Tsayg" tvg-logo="https://livemaralik.do.am/icon/tsayg.png" group-title="Հայկական",Ցայգ TV
+https://s70378.cdn.ngenix.net/tsayg_gyumri/index.m3u8
+#EXTINF:0 tvg-id="AM: Geghama TV" tvg-logo="https://livemaralik.do.am/icon/gheghama.png" group-title="Հայկական",Գեղամա TV
+https://s70378.cdn.ngenix.net/geghama_tv/index.m3u8
+#EXTINF:-1 group-title="Հայկական" tvg-id="AM: Shoghakat TV" tvg-logo="http://1lot.tv/ch/9053.png",Շեմ
+https://s70378.cdn.ngenix.net/shoghakat/index.m3u8
+#EXTINF:0 tvg-id="AM: ATV Tava" tvg-logo="https://livemaralik.do.am/icon/tavatv.png" group-title="Հայկական",Թավա TV
+https://s70378.cdn.ngenix.net/tava_tv/index.m3u8
+#EXTINF:0 tvg-id="AM: ATV Fitness" tvg-logo="https://livemaralik.do.am/icon/fitnes.png" group-title="Հայկական",Ֆիթնես
+https://s70378.cdn.ngenix.net/fitness/index.m3u8
+#EXTINF:0  tvg-id="AM: ATV Lifehack" tvg-logo="https://livemaralik.do.am/icon/layfhack.png" group-title="Հայկական",Լայֆհաք
+https://s70378.cdn.ngenix.net/filmzone/index.m3u8
+#EXTINF:0 tvg-id="AM: ATV HayTV" tvg-logo="https://livemaralik.do.am/icon/haytv.png" group-title="Հայկական",Հայ TV
+https://s70378.cdn.ngenix.net/hay_tv/index.m3u8
+#EXTINF:0 tvg-id="AM: 21TV" tvg-logo="https://livemaralik.do.am/icon/21tv.png"  group-title="Հայկական",21 TV
+https://s70378.cdn.ngenix.net/dar21/index.m3u8
+#EXTINF:0 tvg-id="AM: Shant Music" tvg-logo="https://livemaralik.do.am/icon/shantmusic.png" group-title="Հայկական",Շանթ Music
+https://s70378.cdn.ngenix.net/shant_music/index.m3u8
+#EXTINF:0 tvg-id="AM: ATV Muzzone" tvg-logo="https://livemaralik.do.am/icon/muzzone.png" group-title="Հայկական",Մուզզոն
+https://s70378.cdn.ngenix.net/muzzone/index.m3u8
+#EXTINF:0 tvg-id="AM: SongTV" tvg-logo="https://livemaralik.do.am/icon/songtv.png" group-title="Հայկական",Song TV
+https://s70378.cdn.ngenix.net/mtv_am/index.m3u8
+#EXTINF:0 tvg-id="AM: Alpha News HD" tvg-logo="https://livemaralik.do.am/icon/alpanews.png" group-title="Հայկական",Alpha News
+https://s70378.cdn.ngenix.net/alpha_news/index.m3u8
+#EXTINF:0 tvg-id="AM: Armount TV" tvg-logo="https://livemaralik.do.am/icon/armount.png" group-title="Հայկական",Արմաունթ TV
+https://s70378.cdn.ngenix.net/armount_tv/index.m3u8
+#EXTINF:0 tvg-id="AM: ATV Kinoman" tvg-logo="https://livemaralik.do.am/icon/kinoman.png" group-title="Հայկական",Կինոման
+https://s70378.cdn.ngenix.net/kinoman/index.m3u8
+#EXTINF:0 tvg-id="AM: ATV Bazmoc" tvg-logo="https://livemaralik.do.am/icon/bazmoc.png" group-title="Հայկական",Բազմոց
+https://s70378.cdn.ngenix.net/bazmoc/index.m3u8
+#EXTINF:0 tvg-id="AM: Hybrid Film" tvg-logo="https://livemaralik.do.am/icon/hibridfilm.png" group-title="Հայկական",Hybrid Film
+https://s70378.cdn.ngenix.net/hybrid_tv_film/index.m3u8
+#EXTINF:0 tvg-id="AM: Hybrid Edu" tvg-logo="https://livemaralik.do.am/icon/hibridedu.png" group-title="Հայկական",Hybrid Edu
+https://s70378.cdn.ngenix.net/hybrid_tv_rest/index.m3u8
+#EXTINF:0 tvg-id="AM: Hybrid Rest" tvg-logo="https://livemaralik.do.am/icon/hibridrest.png" group-title="Հայկական",Hybrid Rest
+https://s70378.cdn.ngenix.net/hybrid_rest_new/index.m3u8
+
+#EXTINF:0 tvg-id="AM: Lurer" tvg-logo="https://livemaralik.do.am/icon/h1lurer.png" group-title="Լրատվական",Առաջինի լուրեր
+https://s70378.cdn.ngenix.net/lurer/index.m3u8
+#EXTINF:0 tvg-id="AM: ABN" tvg-logo="https://livemaralik.do.am/icon/ABN.png" group-title="Լրատվական",ABN
+https://s70378.cdn.ngenix.net/armnews_24/index.m3u8
+#EXTINF:0 tvg-id="AM: FreeNews" tvg-logo="https://livemaralik.do.am/icon/freenews.png" group-title="Լրատվական",FreeNews
+https://s70378.cdn.ngenix.net/freenews/index.m3u8
+#EXTINF:0 tvg-id="AM: Euromedia24 HD" tvg-logo="https://livemaralik.do.am/icon/euromedia24.png" group-title="Լրատվական",Euromedia 24
+https://s70378.cdn.ngenix.net/euromedia24/index.m3u8
+#EXTINF:0 group-title="Լրատվական" tvg-id="Мир 24 HD" tvg-logo="http://cdn.epg.one/img2/2078.png",Мир 24
+https://s70378.cdn.ngenix.net/mir_24/index.m3u8
+#EXTINF:0 group-title="Լրատվական" tvg-id="Известия HD" tvg-logo="http://cdn.epg.one/img2/2271.png",Известия
+https://s70378.cdn.ngenix.net/izvestiya/index.m3u8
+#EXTINF:0 group-title="Լրատվական" tvg-id="РБК НD" tvg-logo="http://cdn.epg.one/img2/743.png",РБК
+https://s70378.cdn.ngenix.net/rbc/index.m3u8
+#EXTINF:-1 group-title="Լրատվական" tvg-id="EuroNews" tvg-logo="http://1lot.tv/ch/19114.png",EuroNews
+https://s70378.cdn.ngenix.net/euronews/index.m3u8
+
+#EXTINF:0 group-title="Эфирные" tvg-id="Первый +2" tvg-logo="http://cdn.epg.one/img2/146.png",Первый СНГ
+https://s70378.cdn.ngenix.net/1tv_sng/index.m3u8
+#EXTINF:0 group-title="Эфирные" tvg-id="НТВ Мир" tvg-logo="http://cdn.epg.one/img2/7258.png",НТВ Мир
+https://s70378.cdn.ngenix.net/ntv_world/index.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="НТВ HD" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/162.png",НТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="СТС HD" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/79.png",СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="СТС love" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/1322.png",СТС Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="Домашний" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/304.png",Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/304.png",Домашний int
+https://s70378.cdn.ngenix.net/domashnij_int/index.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="ТНТ HD" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/1767.png",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="Мир HD" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/726.png",Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="Рен ТВ HD" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/18.png",РЕН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="ТВ3 HD" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/698.png",ТВ 3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="Пятница! HD" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/1003.png",Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="Звезда" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/405.png",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="ТНТ4 HD" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/1649.png",ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="ТВЦ HD" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/649.png",ТВ Центр
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="Че" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/1598.png",Че
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="Пятый Канал" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/3030.png",5 канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="ОТР" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/1000.png",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="Ю" catchup="append"  catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/898.png",Ю ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+
+
+#EXTINF:0 group-title="Познавательные" tvg-id="Nat Geo Wild HD" tvg-logo="http://1lot.tv/ch/20101.png",Nat Geo Wild
+https://s70378.cdn.ngenix.net/ngw_sd/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="National Geographic HD" tvg-logo="http://1lot.tv/ch/0203.png",National Geographic
+https://s70378.cdn.ngenix.net/national_geographic/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="History HD" tvg-logo="http://1lot.tv/ch/7747.png",History
+https://s70378.cdn.ngenix.net/history/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="History2 HD" tvg-logo="http://1lot.tv/ch/0205.png",History 2
+https://s70378.cdn.ngenix.net/history_2/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="Galaxy HD" tvg-logo="http://1lot.tv/ch/5598.png",Тайны Галактики
+https://s70378.cdn.ngenix.net/galaxy/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="" tvg-logo="http://1lot.tv/ch/9671.png",Big Planet
+https://s70378.cdn.ngenix.net/ch_big_planet/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="Terra HD" tvg-logo="http://1lot.tv/ch/8496.png",Terra
+https://s70378.cdn.ngenix.net/terra/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="Viju Nature HD" tvg-logo="http://1lot.tv/ch/19107.png",Viju Nature
+https://s70378.cdn.ngenix.net/viasat_nature/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="Viju Explore HD" tvg-logo="http://1lot.tv/ch/6460.png",Viju Explore
+https://s70378.cdn.ngenix.net/viasat_explore/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="Viju History `HD" tvg-logo="http://1lot.tv/ch/6459.png",Viju History
+https://s70378.cdn.ngenix.net/viasat_history/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="Viju+ Planet HD" tvg-logo="http://1lot.tv/ch/17105.png",Viju+ Planet
+https://s70378.cdn.ngenix.net/viasat_nuture_history/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="RTG HD" tvg-logo="http://1lot.tv/ch/0125.png",RTG
+https://s70378.cdn.ngenix.net/rtg_hd/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="Точка РФ HD" tvg-logo="http://1lot.tv/ch/12103.png",Точка РФ
+https://s70378.cdn.ngenix.net/hd_life/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="Глазами туриста HD" tvg-logo="http://1lot.tv/ch/0252.png",Глазами туриста
+https://s70378.cdn.ngenix.net/glazami_turista/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="Travel+Adventure HD" tvg-logo="http://1lot.tv/ch/713.png",Travel+Adventure
+https://s70378.cdn.ngenix.net/travel_and_adventure/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="The Explorers HD" tvg-logo="http://1lot.tv/ch/9673.png",The Explorers
+https://s70378.cdn.ngenix.net/the_explorers/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="365 дней ТВ" tvg-logo="http://1lot.tv/ch/101.png",365 дней ТВ
+https://s70378.cdn.ngenix.net/365_dney_tv/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="Авто плюс HD" tvg-logo="http://1lot.tv/ch/10710.png",Авто Плюс
+https://s70378.cdn.ngenix.net/auto_plus/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="Живая природа HD" tvg-logo="http://1lot.tv/ch/0217.png",Живая Природа
+https://s70378.cdn.ngenix.net/jivaya_priroda/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="Дикий" tvg-logo="http://1lot.tv/ch/2128.png",Дикий
+https://s70378.cdn.ngenix.net/dikiy/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="Зоопарк" tvg-logo="http://1lot.tv/ch/1113.png",Зоопарк
+https://s70378.cdn.ngenix.net/zoopark/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="Ocean TV HD" tvg-logo="https://cdn.epg.one/img2/55.png",Ocean TV
+https://s70378.cdn.ngenix.net/ocean_tv/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="DocuBox HD" tvg-logo="http://1lot.tv/ch/8124.png",DocuBox
+https://s70378.cdn.ngenix.net/docubox/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="Quadro 4K" tvg-logo="http://1lot.tv/ch/8842.png",Quadro TV
+https://s70378.cdn.ngenix.net/quadro_tv/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="БОБЁР" tvg-logo="http://1lot.tv/ch/818.png",Бобер
+https://s70378.cdn.ngenix.net/bober_tv/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="Телекафе" tvg-logo="http://1lot.tv/ch/8187.png",ТелеКафе
+https://s70378.cdn.ngenix.net/telecafe/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="Оружие" tvg-logo="http://1lot.tv/ch/5565.png",Оружие
+https://s70378.cdn.ngenix.net/weapons/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="IL: Fashion" tvg-logo="http://1lot.tv/ch/9258.png",FashionBox
+https://s70378.cdn.ngenix.net/fashion_box/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="" tvg-logo="https://1lot.tv/ch/0211.png",FASHION LIFESTYLE
+https://s70378.cdn.ngenix.net/fashion_lifestyle_hd/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="КВН ТВ" tvg-logo="http://1lot.tv/ch/124.png",КВН ТВ
+https://s70378.cdn.ngenix.net/kvn_tv/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="НТВ Право" tvg-logo="http://1lot.tv/ch/406.png",НТВ Право
+https://s70378.cdn.ngenix.net/ntv_pravo/index.m3u8
+
+#EXTINF:-1 group-title="Фильмовые" tvg-id="hollywood-hd" tvg-logo="http://1lot.tv/ch/17108.png",Hollywood
+https://s70378.cdn.ngenix.net/amc/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="Viju+ Premiere HD" tvg-logo="http://1lot.tv/ch/17104.png",Viju+ Premiere
+https://s70378.cdn.ngenix.net/vip_premiere/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="Viju+ Megahit HD" tvg-logo="http://1lot.tv/ch/17103.png",Viju+ Megahit
+https://s70378.cdn.ngenix.net/vip_megahit/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="Viju+ Comedy HD" tvg-logo="http://1lot.tv/ch/17102.png",Viju+ Comedy
+https://s70378.cdn.ngenix.net/vip_comedy/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="Viju+ Serial HD" tvg-logo="http://1lot.tv/ch/0109.png",Viju+ Serial
+https://s70378.cdn.ngenix.net/vip_serial/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="Киносвидание HD" tvg-logo="http://1lot.tv/ch/6325.png",Киносвидание
+https://s70378.cdn.ngenix.net/kinoklub/index.m3u8
+#EXTINF:0  group-title="Фильмовые" tvg-id="Наше новое кино HD" tvg-logo="http://1lot.tv/ch/6331.png",Наше Новое Кино
+https://s70378.cdn.ngenix.net/nashe_novoe_kino/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="Киноужас HD" tvg-logo="http://1lot.tv/ch/5570.png",Киноужас
+https://s70378.cdn.ngenix.net/kinouzhas/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="Индийское кино" tvg-logo="http://1lot.tv/ch/104.png",Индийское кино
+https://s70378.cdn.ngenix.net/india_tv/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="Viju TV 1000 HD" tvg-logo="http://1lot.tv/ch/5581.png",Viju TV1000
+https://s70378.cdn.ngenix.net/tv_1000/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="Viju TV 1000 Action HD" tvg-logo="http://1lot.tv/ch/6450.png",Viju TV1000 Action
+https://s70378.cdn.ngenix.net/action_tv_1000/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="Viju TV 1000 Русское HD" tvg-logo="http://1lot.tv/ch/6324.png",Viju TV1000 Русское
+https://s70378.cdn.ngenix.net/tv_1000_ru/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="TV 21" tvg-logo="http://1lot.tv/ch/2116.png",TV 21
+https://s70378.cdn.ngenix.net/tv_xxi/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="FlixSnip HD" tvg-logo="http://1lot.tv/ch/7701.png",FlixSnip
+https://s70378.cdn.ngenix.net/ch_flixsnip/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="Еврокино HD" tvg-logo="http://1lot.tv/ch/6453.png",Еврокино
+https://s70378.cdn.ngenix.net/evrokino/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="Любимое Кино HD" tvg-logo="http://1lot.tv/ch/722.png",Любимое Кино
+https://s70378.cdn.ngenix.net/lyubimoy_kino/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="Иллюзион+ HD" tvg-logo="http://1lot.tv/ch/8179.png",Иллюзион+
+https://s70378.cdn.ngenix.net/illusion_plus/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id=".Red HD" tvg-logo="http://cdn.epg.one/img2/311.png",.Red
+https://s70378.cdn.ngenix.net/sony_channel/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id=".Black HD" tvg-logo="http://cdn.epg.one/img2/935.png",.Black
+https://s70378.cdn.ngenix.net/sony_turbo/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id=".Sci-Fi HD" tvg-logo="http://cdn.epg.one/img2/516.png",.Sci-Fi
+https://s70378.cdn.ngenix.net/sony_sci_fi/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="Amedia 1 HD" tvg-logo="http://1lot.tv/ch/6446.png",Amedia 1
+https://s70378.cdn.ngenix.net/amedia_1/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="Amedia 2 HD" tvg-logo="http://1lot.tv/ch/2117.png",Amedia 2
+https://s70378.cdn.ngenix.net/amedia_2/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="Amedia Premium HD" tvg-logo="http://1lot.tv/ch/6449.png",Amedia Premium
+https://s70378.cdn.ngenix.net/amedia_premium_hd/index.m3u8
+#EXTINF:0  group-title="Фильмовые" tvg-id="Amedia Hit HD" tvg-logo="http://1lot.tv/ch/6448.png",Amedia Hit
+https://s70378.cdn.ngenix.net/amedia_hit/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="FX HD" tvg-logo="http://cdn.epg.one/img2/1031.png",FX
+https://s70378.cdn.ngenix.net/foxcrime/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="FX Life HD" tvg-logo="http://cdn.epg.one/img2/615.png",FX Life
+https://s70378.cdn.ngenix.net/fox_life/index.m3u8
+#EXTINF:0 group-title="Фильмовые" tvg-id="НТВ Сериал" tvg-logo="http://1lot.tv/ch/408.png",HTB Сериал
+https://s70378.cdn.ngenix.net/ntv_serial/index.m3u8
+
+#EXTINF:0 tvg-id="AM: FastSports" tvg-logo="https://livemaralik.do.am/icon/fast.png" group-title="Спортивные",FastSports
+https://s70378.cdn.ngenix.net/fast_sports/index.m3u8
+#EXTINF:0 tvg-id="Матч! HD" tvg-logo="http://1lot.tv/ch/2204.png" group-title="Спортивные",Матч! TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:0 catchup-days="3" group-title="Спортивные" tvg-id="Матч! Планета" tvg-logo="http://1lot.tv/ch/5528.png",Матч! Планета
+https://s70378.cdn.ngenix.net/match_planeta/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="MMA-TV" tvg-logo="http://1lot.tv/ch/1325.png",MMA-TV
+https://s70378.cdn.ngenix.net/m1_global/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="UDAR TV HD" tvg-logo="http://1lot.tv/ch/5532.png",Удар
+https://s70378.cdn.ngenix.net/ufc/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="Бокс ТВ" tvg-logo="http://1lot.tv/ch/8824.png",Бокс ТВ
+https://s70378.cdn.ngenix.net/boks_tv/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="FightBox HD" tvg-logo="http://1lot.tv/ch/5529.png",FightBox
+https://s70378.cdn.ngenix.net/fightbox/index.m3u8
+#EXTINF:0 tvg-id=""  group-title="Спортивные" tvg-logo="http://mytv.do.am/motodrive3.png",Мото Драйв
+https://s70378.cdn.ngenix.net/moto_drive/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="Fast and FunBox HD" tvg-logo="http://1lot.tv/ch/5530.png",Fast and FunBox
+https://s70378.cdn.ngenix.net/fast_and_funbox_hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="КХЛ HD" tvg-logo="http://1lot.tv/ch/1318.png",KHL
+https://s70378.cdn.ngenix.net/kxl/index.m3u8
+#EXTINF:0 group-title="Спортивные" tvg-id="Viju+ Sport HD" tvg-logo="http://1lot.tv/ch/5568.png",Viju+ Sport
+https://s70378.cdn.ngenix.net/viasat_sport/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="Trace Sport Stars HD" tvg-logo="http://1lot.tv/ch/7700.png",Trace Sport Stars
+https://s70378.cdn.ngenix.net/trace_sport_stars/index.m3u8
+
+#EXTINF:0  group-title="Музыкальные" tvg-id="Шансон TB" ,Шансон TB
+https://s70378.cdn.ngenix.net/shanson_tv/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Музыка Первого
+https://s70378.cdn.ngenix.net/music_pervogo/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",FON MUSIC
+https://s70378.cdn.ngenix.net/tnt_music/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",RU TV
+https://s70378.cdn.ngenix.net/ru_tv/index.m3u8
+
+#EXTINF:0 group-title="Детские" tvg-id="AM: Shant Kids" tvg-logo="https://livemaralik.do.am/icon/shantkids.png",Շանթ Kids
+https://s70378.cdn.ngenix.net/shant_kids/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="AM: ArmToon TV" tvg-logo="https://livemaralik.do.am/icon/armtoon.png",ArmToon TV
+https://s70378.cdn.ngenix.net/armtoon_tv/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="" tvg-logo="http://1lot.tv/ch/2122.png",Gulli Girl
+https://s70378.cdn.ngenix.net/gulli/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="" tvg-logo="http://1lot.tv/ch/9206.png",Nickelodeon
+https://s70378.cdn.ngenix.net/nickelodeon/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="" tvg-logo="http://1lot.tv/ch/9207.png",NickToons
+https://s70378.cdn.ngenix.net/nicktoons/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="" tvg-logo="http://1lot.tv/ch/822.png",Карусель
+https://s70378.cdn.ngenix.net/karusel/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="" tvg-logo="http://1lot.tv/ch/8151.png",Duck TV
+https://s70378.cdn.ngenix.net/ducktv/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="" tvg-logo="http://1lot.tv/ch/7039.png",Baby TV
+https://s70378.cdn.ngenix.net/baby_tv/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="Супергерои" tvg-logo="http://1lot.tv/ch/122.png",Супергерои
+https://s70378.cdn.ngenix.net/malish/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="TiJi" tvg-logo="http://1lot.tv/ch/2121.png",TiJi
+https://s70378.cdn.ngenix.net/tiji/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="СТС Kids HD" tvg-logo="http://1lot.tv/ch/5571.png",СТС Kids
+https://s70378.cdn.ngenix.net/ctc_kids/index.m3u8
