@@ -29,8 +29,6 @@ https://s70378.cdn.ngenix.net/h3/index.m3u8
 https://s70378.cdn.ngenix.net/boon_tv/index.m3u8
 #EXTINF:0 tvg-id="AM: Tavush TV" tvg-logo="https://livemaralik.do.am/icon/tavush.png" group-title="Հայկական",Տավուշ TV
 https://s70378.cdn.ngenix.net/tavush_tv/index.m3u8
-#EXTINF:0 tvg-id="AM: Kotayq" tvg-logo="https://livemaralik.do.am/icon/kotayqtv.png" group-title="Հայկական",Կոտայք TV
-https://s70378.cdn.ngenix.net/abovyan_tv/index.m3u8
 #EXTINF:0 tvg-id="AM: Lori TV" tvg-logo="https://livemaralik.do.am/icon/loritv.png" group-title="Հայկական",Լոռի TV
 https://s70378.cdn.ngenix.net/lori_tv/index.m3u8
 #EXTINF:0 tvg-id="AM: Syunik TV" tvg-logo="https://livemaralik.do.am/icon/syuniq.png" group-title="Հայկական",Սյունիք TV
